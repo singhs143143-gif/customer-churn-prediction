@@ -1,0 +1,17 @@
+{
+"version": "2.0.0",
+"tasks": [
+{
+"label": "Run Customer Churn Dashboard",
+"type": "shell",
+"command": "C:/Python314/python.exe",
+"args": [
+"-m",
+"streamlit",
+"run",
+"D:/project/customer churn/app.py"
+],
+"problemMatcher": []
+}
+]
+}
