@@ -1,5 +1,7 @@
 # Customer Churn Prediction Using Machine Learning | End-to-End Python Project
 
+**Live Demo:** https://customer-churn-prediction-3szdjirybf5hqjk3a5anl6.streamlit.app/
+
 Learn how to build a Customer Churn Prediction Project using Machine Learning in Python! 🚀
 In this full end-to-end tutorial, we’ll predict customer churn using real-world bank data and explore how data-driven insights can help businesses retain their valuable customers.
 
